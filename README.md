@@ -2,6 +2,12 @@
 
 A responsive, interactive developer portfolio demonstration built with **HTML, CSS, and vanilla JavaScript**. This is an educational project, not a live personal portfolio.
 
+## Live Demo
+
+View the published portfolio on GitHub Pages:
+
+[Interactive Developer Portfolio – Live Demo](https://mscaccio.github.io/interactive-developer-portfolio/)
+
 ## Features
 
 - **Responsive layout** with a mobile navigation menu.
